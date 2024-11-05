@@ -13,7 +13,8 @@ int main() {
     int result = add(num1, num2);
 
     // Print the result
-    printf("The sum of %d and %d is %d\n", num1, num2, result);
+    printf("The slkajsd  of %d and %d is %d\n", num1, num2, result);
+    printf("somethmg");
 
     return 0;
 }
